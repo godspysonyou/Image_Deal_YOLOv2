@@ -2,7 +2,7 @@
 Image deal with YOLOv2
 
 sever：10.65.1.94</br>
-account：hdu
-password：hdu
-su admin
-password:123456
+account：hdu</br>
+password：hdu</br>
+su admin</br>
+password:123456</br>
